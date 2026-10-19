@@ -1,0 +1,3 @@
+Erstattio - Fingerabdruck (SHA-256)
+Gesamt-Fingerabdruck 2026-10-19: ade03cd4febd377f45b2d87548c3da3b0c216dfbf43fe543c393d7ec16590acb
+Beweis-Paket beweisstand-2026-10-19.zip: 26379e76603c2708a0cec905cf5ddf52611db089cbad8ffb9d711476ede472d1
